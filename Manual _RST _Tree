@@ -1,0 +1,130 @@
+** BBC — Units 24–34
+
+Unit 24: The World Meteorological Organization (WMO) says extreme heat events have become a common phenomenon in several North African countries with heatwaves having increased with a clear upward trend since 1981.
+Unit 25: It said a number of countries in the region and the Middle East reported temperatures above 50C in 2024.
+Unit 26: WMO's State of the Climate in Africa 2025 report said North Africa recorded the most rapid warming of the six subregions - 0.43C per decade - between 1991 and 2025.
+Unit 27: Experts say camels comfortably beat the heat up to around 40C by mainly allowing their body temperature to fluctuate by several degrees throughout the day to deal with outside temperature.
+Unit 28: By doing that they avoid sweating and, combined with concentrated urine and dry faeces, it helps them minimise water loss, while their thick skin coat helps them ward off solar radiation. "But camels can also experience heat stress when temperatures rise beyond their comfort range," said Dr Mohammed Bengoumi, a scientist with the UN's Food and Agriculture Organization (FAO), who specialises in camel health and works in North Africa.
+Unit 29: "In many parts of the Sahara, summer temperatures now frequently exceed 50C, increasing the risk of severe heat stress, particularly when accompanied by reduced vegetation cover, water scarcity, and limited access to shade," he told the BBC.
+Unit 30: Professor Abdelmadjid Chehma at the University of Ghardaia in Algeria, who has conducted experimental works on camels in the Sahara Desert, has a similar conclusion.
+Unit 31: "Our works show that prolonged day-and-night heat above 41 to 45C directly attack their cells," he told the BBC.
+Unit 32: "Their immune system suffers because such heat levels damage their white blood cells and other cells because of stress, they [the cells] struggle to repair themselves and end up destroying themselves."
+Unit 33: "For camels this means when heat stress sets in, their metabolism slows down to limit internal heat production leading to sharp reduction in food intake resulting in lethargy and generalised fatigue.
+Unit 34: That leads to drop in milk production and also causes reproductive disorders... Weight loss, inflammation, muscle and bone related illnesses, chemical imbalance due to kidney malfunction, infectious diseases caused by parasites were a few among them, he said.
+
+                               WHOLE EXCERPT
+                                      │
+                               ELABORATION
+                              /            \
+                             /              \
+                    SPAN 24–26             SPAN 27–34
+                         │                       │
+                      EVIDENCE              ELABORATION
+                    /    |     \             /       \
+                   /     |      \           /         \
+                U24     U25     U26     SPAN 27–28    SPAN 29–34
+                 N       S       S          │              │
+                                           CONTRAST       CAUSE
+                                          /       \       /     \
+                                         S         N     U29    SPAN 30–34
+                                         │         │            │
+                                      U28a       U28b        ELABORATION
+                                                                  │
+                                                            /     |      \
+                                                          U30    SPAN31–32  SPAN33–34
+                                                           S         │          │
+                                                         EVIDENCE   CAUSE     ELABORATION
+                                                                    /  \       /      \
+                                                                  U31  U32    U33a    U34
+
+
+U24: WMO says extreme heat events have become common.
+U25: gives a concrete example: temperatures above 50°C.
+U26: provides WMO's quantitative warming data.
+U28a: camels avoid sweating, minimise water loss and use their thick skin coat to deal with heat.
+U28b: “But camels can also experience heat stress when temperatures rise beyond their comfort range.”
+U27 provides the initial claim.
+U30: introduces Professor Chehma and his experimental work.
+U31: gives his finding that prolonged heat directly attacks cells.
+U32: explains the cellular/immune consequences.
+U33: explains the metabolic consequences of heat stress.
+U34: gives further consequences such as reduced milk production and reproductive disorders.
+
+
+Chain 
+high temperatures
+       ↓
+heat stress
+       ↓
+cell damage
+       ↓
+immune-system problems
+       ↓
+metabolic changes
+       ↓
+reduced food intake
+       ↓
+fatigue
+       ↓
+reduced milk production /
+reproductive disorders
+
+
+*note : U30 could plausibly be treated as Attribution rather than Evidence, because it introduces Professor Chehma as the source of the following scientific claim. 
+Also, the relation between U31–32 and the following physiological consequences needs to be checked against the exact EDU segmentation
+
+** AI — Units 294–301
+Unit 294: “We used to think of camels as almost drought-proof animals,” said Dr Amina Yusuf, a veterinary researcher who has studied livestock health in arid areas of East Africa. “What we are now seeing is that even a species this well adapted has physiological limits, and those limits are being reached more often than before.”
+Unit 295: Camel populations in parts of the Horn of Africa have continued to grow in absolute numbers, partly because herders have shifted away from more heat-vulnerable cattle. But researchers caution that rising ownership does not necessarily mean rising resilience: herd productivity — milk yield, calving rates and body condition — is, by several regional accounts, declining even where overall numbers remain stable.
+Unit 296: Why heat is proving so damaging.
+Unit 297: Camels are, by any measure, extraordinarily well suited to hot, dry environments.
+Unit 298: They can tolerate body temperature fluctuations of several degrees over the day, avoiding excessive sweating. Their humps store fat rather than water, providing an energy reserve without the insulating effect of fat spread across the body. They can go without drinking for a week or more, then consume enormous quantities of water in a single sitting to rehydrate.
+Unit 299: These adaptations, however, are calibrated to a particular range of conditions — conditions that scientists say are shifting.
+Unit 300: “The issue is not simply that it is hot — deserts have always been hot,” explained Professor Bernard Kiptoo, an animal physiologist who studies heat tolerance in livestock. “The issue is the combination of higher baseline temperatures, longer heatwaves, and shorter recovery periods between droughts. A camel that could once rest and recover its body condition between dry spells no longer has that opportunity.”
+Unit 301: Reduced, less predictable rainfall also affects the quality and availability of forage. Camels are browsers, feeding on shrubs and trees rather than grass, and prolonged drought reduces both the quantity and nutritional value of vegetation available. Weakened animals become more vulnerable to disease, less able to walk the long distances now required to reach water and pasture, and less able to regulate body temperature even within their normal range.
+
+                              WHOLE AI EXCERPT
+                                      │
+                                  ELABORATION
+                                 /            \
+                                /              \
+                         SPAN 294–295        SPAN 297–301
+                              │                    │
+                           EVIDENCE             ELABORATION
+                          /        \             /         \
+                       U294      U295       SPAN 297–299   SPAN 300–301
+                         S         S              │             │
+                                             ELABORATION       CAUSE
+                                             /        \        /     \
+                                           U297     SPAN298  U300   U301
+                                                      │
+                                                 ELABORATION
+
+
+U294 introduces Dr Amina Yusuf's expert statement that camels have physiological limits and are reaching them more often.
+U295 develops that claim by explaining that increasing camel ownership does not necessarily mean increasing resilience; productivity is declining.
+*The idea is that U294 gives the central expert assessment, while U295 provides additional evidence/development concerning declining resilience. However, Elaboration is also defensible here
+U297 Camels are extraordinarily well suited to hot, dry environments
+U298: This elaborates exactly how they are suited to hot, dry environments.
+U299:This further develops U298 but also introduces an important limitation/contrast. U298 → U299 = Elaboration, with a possible Contrast interpretation because of however
+U300 explains the changing environmental conditions:higher baseline temperatures + longer heatwaves + shorter recovery periods
+U301 explains what follows from those conditions:reduced rainfall → poorer forage → weaker animals → greater vulnerability.
+But U301 itself contains a causal chain.
+ splitting  it into EDUs:
+U301a: Reduced, less predictable rainfall affects forage quality and availability.
+U301b: Camels are browsers, feeding on shrubs and trees rather than grass.
+U301c: Prolonged drought reduces the quantity and nutritional value of vegetation.
+U301d: Weakened animals become more vulnerable to disease.
+U301e: They become less able to walk the long distances required to reach water and pasture.
+U301f: They become less able to regulate body temperature.
+
+
+** Conclusion 
+
+The BBC passage develops roughly:
+climate evidence → camel adaptation → limitation → scientific evidence → physiological damage → consequences
+So its tree has a strong Evidence + Elaboration + Cause organization.
+
+The AI passage develops more like:
+expert assessment → declining resilience → camel adaptations → limits of adaptation → environmental changes → biological consequences
+So the AI tree has a particularly strong Elaboration + Cause structure, with expert information functioning as Evidence/Attribution.
