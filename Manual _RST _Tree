@@ -121,11 +121,16 @@ U301f: They become less able to regulate body temperature.
 
 ** Conclusion 
 
-The BBC passage develops roughly:
-climate evidence → camel adaptation → limitation → scientific evidence → physiological damage → consequences
-So its tree has a strong Evidence + Elaboration + Cause organization.
 
-The AI passage develops more like:
-expert assessment → declining resilience → camel adaptations → limits of adaptation → environmental changes → biological consequences
+BBC and AI-generated passages differ in the variety, flexibility, and distribution of rhetorical relations.
+The BBC passage develops roughly:Evidence, Elaboration, Cause, Contrast, Background, and Attribution-like information.
+Importantly, these relations do not remain fixed within one section: the writer repeatedly changes the function of sentences as the discussion develops.
+In Contrast AI-generated passage the rhetorical relations appear to be distributed less dynamically.
+Within longer sections, the text often continues elaborating on the same point through several sentences before moving to a new rhetorical purpose.
+As a result, the tree can contain long sequences of similar relations rather than the more frequent changes observed in the BBC passag
+The AI passage develops roughly expert assessment → declining resilience → camel adaptations → limits of adaptation → environmental changes → biological consequences
 But this structure also can be because of the detailed promt.
-So the AI tree has a particularly strong Elaboration + Cause structure, with expert information functioning as Evidence/Attribution.
+
+Another important feature of the BBC passage is the frequent use of source-based and evidential material.
+These sources are not simply added as separate information; they are integrated into the rhetorical development of the text. 
+A claim can therefore be followed by a quotation, statistical finding, explanation, or scientific interpretation that gives the reader a more specific reason to accept or understand the preceding information
