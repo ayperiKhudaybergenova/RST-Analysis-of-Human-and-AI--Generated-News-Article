@@ -70,8 +70,8 @@ reduced milk production /
 reproductive disorders
 
 
-*note : U30 could plausibly be treated as Attribution rather than Evidence, because it introduces Professor Chehma as the source of the following scientific claim. 
-Also, the relation between U31–32 and the following physiological consequences needs to be checked against the exact EDU segmentation
+*note : U30 could  be treated as Attribution rather than Evidence, because it introduces Professor Chehma as the source of the following scientific claim. 
+Also, the relation between U31–32 and the following physiological consequences needs to be checked again.
 
 ** AI — Units 294–301
 Unit 294: “We used to think of camels as almost drought-proof animals,” said Dr Amina Yusuf, a veterinary researcher who has studied livestock health in arid areas of East Africa. “What we are now seeing is that even a species this well adapted has physiological limits, and those limits are being reached more often than before.”
@@ -127,4 +127,5 @@ So its tree has a strong Evidence + Elaboration + Cause organization.
 
 The AI passage develops more like:
 expert assessment → declining resilience → camel adaptations → limits of adaptation → environmental changes → biological consequences
+But this structure also can be because of the detailed promt.
 So the AI tree has a particularly strong Elaboration + Cause structure, with expert information functioning as Evidence/Attribution.
