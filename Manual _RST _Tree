@@ -64,7 +64,7 @@ N       /    \                  │           │
                                                 │                │
                                                CAUSE           RESULT
                                               /    \          /      \
-                                            U31    U32      U33a     U34
+                                            U31    U32      U33      U34
                                              S      S         S        N
 
 
