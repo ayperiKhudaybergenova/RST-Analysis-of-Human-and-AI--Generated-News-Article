@@ -38,6 +38,36 @@ Unit 34: That leads to drop in milk production and also causes reproductive diso
                                                                   U31  U32    U33a    U34
 
 
+
+            WHOLE EXCERPT
+                 │
+             ELABORATION
+        /                      \
+       /                        \
+SPAN 24–26                    SPAN 27–34
+│                             │
+EVIDENCE                      ELABORATION
+/      \                       /        \
+U24   SPAN 25–26           SPAN 27–28   SPAN 29–34
+N       /    \                  │           │
+       U25    U26            CONTRAST      CAUSE
+        S      S              /    \       /    \
+                             U28a  U28b    U29   SPAN 30–34
+                              S     N             │
+                                           ELABORATION
+                                           /        \
+                                         U30       SPAN 31–34
+                                          S            │
+                                      EVIDENCE      ELABORATION
+                                                   /          \
+                                             SPAN 31–32     SPAN 33–34
+                                                │              │
+                                               CAUSE        ELABORATION
+                                              /    \          /      \
+                                            U31    U32      U33a     U34
+                                             S      S         S        N
+
+
 U24: WMO says extreme heat events have become common.
 U25: gives a concrete example: temperatures above 50°C.
 U26: provides WMO's quantitative warming data.
@@ -101,6 +131,28 @@ Unit 301: Reduced, less predictable rainfall also affects the quality and availa
                                                  ELABORATION
 
 
+
+WHOLE AI EXCERPT
+│
+└── ELABORATION
+    /                         \
+SPAN 294–295                  SPAN 296–301
+                              │
+                           ELABORATION
+                           /          \
+                         U296       SPAN 297–301
+                                      │
+                                  ELABORATION
+                                  /          \
+                             SPAN 297–299   SPAN 300–301
+                                  │              │
+                              ELABORATION       CAUSE
+                              /        \        /    \
+                            U297      U298–299 U300  U301
+                             N           │       S     S
+                                        / \
+                                      U298 U299
+                                       N    S
 U294 introduces Dr Amina Yusuf's expert statement that camels have physiological limits and are reaching them more often.
 U295 develops that claim by explaining that increasing camel ownership does not necessarily mean increasing resilience; productivity is declining.
 *The idea is that U294 gives the central expert assessment, while U295 provides additional evidence/development concerning declining resilience. However, Elaboration is also defensible here
