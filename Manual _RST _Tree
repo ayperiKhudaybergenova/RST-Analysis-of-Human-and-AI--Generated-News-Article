@@ -32,8 +32,8 @@ Unit 34: That leads to drop in milk production and also causes reproductive diso
                                                                   │
                                                             /     |      \
                                                           U30    SPAN31–32  SPAN33–34
-                                                           S         │          │
-                                                         EVIDENCE   CAUSE     ELABORATION
+                                                           S         │            │
+                                                         EVIDENCE   CAUSE       RESULT
                                                                     /  \       /      \
                                                                   U31  U32    U33    U34
 
@@ -61,8 +61,8 @@ N       /    \                  │           │
                                       EVIDENCE      ELABORATION
                                                    /          \
                                              SPAN 31–32     SPAN 33–34
-                                                │              │
-                                               CAUSE        ELABORATION
+                                                │                │
+                                               CAUSE           RESULT
                                               /    \          /      \
                                             U31    U32      U33a     U34
                                              S      S         S        N
