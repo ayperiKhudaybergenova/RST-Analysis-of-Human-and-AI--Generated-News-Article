@@ -131,14 +131,19 @@ U301:  Result- Weakened animals become more vulnerable to disease.
 
 
 BBC and AI-generated passages differ in the variety, flexibility, and distribution of rhetorical relations.
-The BBC passage develops roughly:Evidence, Elaboration, Cause, Contrast, Background, and Attribution-like information.
+The BBC passage develops roughly:Evidence, Elaboration, Cause, Contrast,Result, and Attribution-like information.
 Importantly, these relations do not remain fixed within one section: the writer repeatedly changes the function of sentences as the discussion develops.
 In Contrast AI-generated passage the rhetorical relations appear to be distributed less dynamically.
 Within longer sections, the text often continues elaborating on the same point through several sentences before moving to a new rhetorical purpose.
-As a result, the tree can contain long sequences of similar relations rather than the more frequent changes observed in the BBC passag
-The AI passage develops roughly expert assessment → declining resilience → camel adaptations → limits of adaptation → environmental changes → biological consequences
+As a result, the tree can contain long sequences of similar relations rather than the more frequent changes observed in the BBC passage.
+The AI passage develops Evidence, Elaboration, Contrast , Result. Repeatedly Contrast was used as relation.
 But this structure also can be because of the detailed promt.
+
+There have been cases where parts of one sentence in BBC article has been indicated with different letters  because it contains different relations within.
+Meanwhile several sentneces in AI generated article indicated with different letters because all contain the same idea and in tree they represented the same relation.
+AI generated text contains more short sentences than BBC article.
+
 
 Another important feature of the BBC passage is the frequent use of source-based and evidential material.
 These sources are not simply added as separate information; they are integrated into the rhetorical development of the text. 
-A claim can therefore be followed by a quotation, statistical finding, explanation, or scientific interpretation that gives the reader a more specific reason to accept or understand the preceding information
+
