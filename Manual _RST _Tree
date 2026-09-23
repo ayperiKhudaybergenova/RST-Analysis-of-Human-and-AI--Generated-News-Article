@@ -89,64 +89,42 @@ Unit 298: These adaptations, however, are calibrated to a particular range of co
 Unit 299a: “The issue is not simply that it is hot — deserts have always been hot,” explained Professor Bernard Kiptoo, an animal physiologist who studies heat tolerance in livestock. 
 Unit 299b:“The issue is the combination of higher baseline temperatures, longer heatwaves, and shorter recovery periods between droughts.
 Unit 299c: A camel that could once rest and recover its body condition between dry spells no longer has that opportunity.”
-Unit 300: Reduced, less predictable rainfall also affects the quality and availability of forage. 
-Unit 300: Camels are browsers, feeding on shrubs and trees rather than grass, and prolonged drought reduces both the quantity and nutritional value of vegetation available. 
+Unit 300: Reduced, less predictable rainfall also affects the quality and availability of forage.  Camels are browsers, feeding on shrubs and trees rather than grass, and prolonged drought reduces both the quantity and nutritional value of vegetation available. 
 Unit 301: Weakened animals become more vulnerable to disease, less able to walk the long distances now required to reach water and pasture, and less able to regulate body temperature even within their normal range.
 
-                              WHOLE AI EXCERPT
-                                      │
-                                  ELABORATION
-                                 /            \
-                                /              \
-                         SPAN 294–295        SPAN 297–301
-                              │                    │
-                           EVIDENCE             ELABORATION
-                          /        \             /         \
-                       U294      U295       SPAN 297–299   SPAN 300–301
-                         S         S              │             │
-                                             ELABORATION       CAUSE
-                                             /        \        /     \
-                                           U297     SPAN298  U300   U301
-                                                      │
-                                                 ELABORATION
-
-
-
-                               WHOLE AI EXCERPT
+                                WHOLE AI EXCERPT
                                       │
                                  ELABORATION
-                                /            \
-                               /              \
-                       SPAN 294–295           SPAN 296–300
-                            │                        │
-                         EVIDENCE                 ELABORATION
-                        /       \             /                \
-                     U294      U295      SPAN 296–298       SPAN 299–300
-                      N         S              │                     │
-                                           ELABORATION              CAUSE
-                                           /        \                /    \
-                                         U296      SPAN 297-298     U299   U300
-                                                      │
-                                                 ELABORATION
-                                                 /        \
-                                               U297       U298
+                            /                     \
+                           /                       \
+                    SPAN 294–296                SPAN 297–301
+                         │                              │
+                      EVIDENCE                      ELABORATION
+                    /          \                 /                \
+              SPAN 294       SPAN 295–296   SPAN 297–298        SPAN 299–301
+                  │                │             │                      │
+              CONTRAST         CONTRAST      CONTRAST                ELABORATION
+             /       \          /      \       /        \            /          \
+          U294a     U294b      U295    U296  297a-d  U298       SPAN 299   SPAN 300–301
+            S         N         N       S       N        S          │              │
+                                                               ELABORATION       RESULT
+                                                                    │            /     \
+                                                                U299a-c        U300    U301
+                                                                   S            N        S
+                                                                     
 
-U294 introduces Dr Amina Yusuf's expert statement that camels have physiological limits and are reaching them more often.
-U295 develops that claim by explaining that increasing camel ownership does not necessarily mean increasing resilience; productivity is declining.
-*The idea is that U294 gives the central expert assessment, while U295 provides additional evidence/development concerning declining resilience. However, Elaboration is also defensible here
-U296 Camels are extraordinarily well suited to hot, dry environments
-U297: This elaborates exactly how they are suited to hot, dry environments.
-U298:This further develops U298 but also introduces an important limitation/contrast. U298 → U299 = Elaboration, with a possible Contrast interpretation because of however
-U299 explains the changing environmental conditions:higher baseline temperatures + longer heatwaves + shorter recovery periods
-U300 explains what follows from those conditions:reduced rainfall → poorer forage → weaker animals → greater vulnerability.
-But U301 itself contains a causal chain.
- splitting  it into EDUs:
-U301a: Reduced, less predictable rainfall affects forage quality and availability.
-U301b: Camels are browsers, feeding on shrubs and trees rather than grass.
-U301c: Prolonged drought reduces the quantity and nutritional value of vegetation.
-U301d: Weakened animals become more vulnerable to disease.
-U301e: They become less able to walk the long distances required to reach water and pasture.
-U301f: They become less able to regulate body temperature.
+                                                                   
+
+U294a: introduces Dr Amina Yusuf's statement.
+U294b: contrast.  now we see limits
+U295:  grow in numbers 
+U296:  contrast. declining even where overall numbers remain stable
+U297:  All a,b,c,d expalin the same idea how they are suited to hot, dry environments.
+U298:  limitation/contrast with However to U297
+U299   explains the changing environmental conditions
+U300   explains what follows from those conditions
+U301:  Result- Weakened animals become more vulnerable to disease.
+
 
 
 ** Conclusion 
