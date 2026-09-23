@@ -12,67 +12,35 @@ Unit 32: "Their immune system suffers because such heat levels damage their whit
 Unit 33: "For camels this means when heat stress sets in, their metabolism slows down to limit internal heat production leading to sharp reduction in food intake resulting in lethargy and generalised fatigue.
 Unit 34: That leads to drop in milk production and also causes reproductive disorders... Weight loss, inflammation, muscle and bone related illnesses, chemical imbalance due to kidney malfunction, infectious diseases caused by parasites were a few among them, he said.
 
-                               WHOLE EXCERPT
-                                      │
-                               ELABORATION
-                              /            \
-                             /              \
-                    SPAN 24–26             SPAN 27–34
-                         │                       │
-                      EVIDENCE              ELABORATION
-                    /    |     \             /       \
-                   /     |      \           /         \
-                U24     U25     U26     SPAN 27–28    SPAN 29–34
-                 N       S       S          │              │
-                                         CONTRAST         CAUSE
-                                          /       \       /     \
-                                         S         N     U29    SPAN 30–34
-                                         │         │            │
-                                        U27       U28        ELABORATION
-                                                                  │
-                                                            /     |      \
-                                                          U30    SPAN31–32  SPAN33–34
-                                                           S         │            │
-                                                         EVIDENCE   CAUSE       RESULT
-                                                                    /  \       /      \
-                                                                  U31  U32    U33    U34
+                    
+
+          
+                                                        
+                              WHOLE EXCERPT
+                                   │
+                              ELABORATION
+                         /                    \
+                        /                      \
+                  SPAN 24–26                SPAN 27–34
+                       │                         │
+                    EVIDENCE                 ELABORATION
+                   /        \             /              \
+                 U24      SPAN 25–26   SPAN 27–29      SPAN 30–34
+                  N         /    \          │                │
+                           U25   U26     CONTRAST         ELABORATION
+                            S     S       /      \          /          \
+                                     U27   SPAN 28–29   SPAN 30–31   SPAN 32–34
+                                      │         │            │             │
+                                   RESULT     CAUSE     EVIDENCE(Attr)  ELABORATION
+                                   /    \      /   \        /     \       /       \
+                                U27a   U27b   U29  U28     U30   U31   SPAN 32  SPAN 33–34
+                                 N       S     S    N       N     S       │          │
+                                                                      CAUSE       RESULT
+                                                                     /    \       /    \
+                                                                   U32a  U32b    U33    U34
+                                                                    N      S      S      N
 
 
-
-            WHOLE EXCERPT
-                 │
-             ELABORATION
-        /                      \
-       /                        \
-SPAN 24–26                    SPAN 27–34
-   │                             │
-EVIDENCE                      ELABORATION
-/      \                       /        \
-U24   SPAN 25–26           SPAN 27–28   SPAN 29–34
-N       /    \                  │           │
-       U25    U26            CONTRAST      CAUSE
-        S      S              /    \       /    \
-                             U27  U28    U29   SPAN 30–34
-                              S     N             │
-                          U27a–U27b           
-                             │
-                         RESULT
-                       /        \
-                    U27a        U27b
-                     N            S        ELABORATION
-                                           /        \
-                                        SPAN 30-31      SPAN 32–34
-                                          │                │
-                                   EVIDENCE(Attr)      ELABORATION
-                                      /     \             /      \
-                                    U30     U31      SPAN 32     SPAN 33–34
-                                     N        S        │                │
-                                                    CAUSE           RESULT
-                                                   /     \
-                                                 U32a   U32b
-                                                 N       S           /      \
-                                                                   U33      U34
-                                                                    S        N
 
 
 U24: WMO says extreme heat events have become common.
@@ -80,6 +48,7 @@ U25: gives a concrete example: temperatures above 50°C.
 U26: provides WMO's quantitative warming data in Africa.
 U28: “But camels can also experience heat stress when temperatures rise beyond their comfort range.”
 U27: It is primarily Elaboration, with some internal Result/Cause relations inside U27a/U27b.
+U29: Cause here: the extreme temperatures described in U29 contribute to the heat stress discussed in U28.U28 as Nucleus and U29 as Satellite
 U30: introduces expert/source and his conclusion. It is relatively weak as an independent proposition, but it establishes the claim that follows.
 U31: gives his finding ,supporting the preceding discussion
 U32: explains why the immune system suffers. U32a  Their immune system suffers. U32b  Such heat levels damage their white blood cells and other cells...
