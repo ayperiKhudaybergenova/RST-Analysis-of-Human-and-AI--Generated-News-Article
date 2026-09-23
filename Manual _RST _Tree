@@ -3,8 +3,8 @@
 Unit 24: The World Meteorological Organization (WMO) says extreme heat events have become a common phenomenon in several North African countries with heatwaves having increased with a clear upward trend since 1981.
 Unit 25: It said a number of countries in the region and the Middle East reported temperatures above 50C in 2024.
 Unit 26: WMO's State of the Climate in Africa 2025 report said North Africa recorded the most rapid warming of the six subregions - 0.43C per decade - between 1991 and 2025.
-Unit 27: Experts say camels comfortably beat the heat up to around 40C by mainly allowing their body temperature to fluctuate by several degrees throughout the day to deal with outside temperature.
-Unit 28: By doing that they avoid sweating and, combined with concentrated urine and dry faeces, it helps them minimise water loss, while their thick skin coat helps them ward off solar radiation. "But camels can also experience heat stress when temperatures rise beyond their comfort range," said Dr Mohammed Bengoumi, a scientist with the UN's Food and Agriculture Organization (FAO), who specialises in camel health and works in North Africa.
+Unit 27: Experts say camels comfortably beat the heat up to around 40C by mainly allowing their body temperature to fluctuate by several degrees throughout the day to deal with outside temperature. By doing that they avoid sweating and, combined with concentrated urine and dry faeces, it helps them minimise water loss, while their thick skin coat helps them ward off solar radiation.
+Unit 28: "But camels can also experience heat stress when temperatures rise beyond their comfort range," said Dr Mohammed Bengoumi, a scientist with the UN's Food and Agriculture Organization (FAO), who specialises in camel health and works in North Africa.
 Unit 29: "In many parts of the Sahara, summer temperatures now frequently exceed 50C, increasing the risk of severe heat stress, particularly when accompanied by reduced vegetation cover, water scarcity, and limited access to shade," he told the BBC.
 Unit 30: Professor Abdelmadjid Chehma at the University of Ghardaia in Algeria, who has conducted experimental works on camels in the Sahara Desert, has a similar conclusion.
 Unit 31: "Our works show that prolonged day-and-night heat above 41 to 45C directly attack their cells," he told the BBC.
@@ -24,11 +24,11 @@ Unit 34: That leads to drop in milk production and also causes reproductive diso
                    /     |      \           /         \
                 U24     U25     U26     SPAN 27–28    SPAN 29–34
                  N       S       S          │              │
-                                           CONTRAST       CAUSE
+                                         CONTRAST         CAUSE
                                           /       \       /     \
                                          S         N     U29    SPAN 30–34
                                          │         │            │
-                                      U28a       U28b        ELABORATION
+                                        U27       U28        ELABORATION
                                                                   │
                                                             /     |      \
                                                           U30    SPAN31–32  SPAN33–34
@@ -52,31 +52,37 @@ U24   SPAN 25–26           SPAN 27–28   SPAN 29–34
 N       /    \                  │           │
        U25    U26            CONTRAST      CAUSE
         S      S              /    \       /    \
-                             U28a  U28b    U29   SPAN 30–34
+                             U27  U28    U29   SPAN 30–34
                               S     N             │
-                                           ELABORATION
+                          U27a–U27b           
+                             │
+                         RESULT
+                       /        \
+                    U27a        U27b
+                     N            S        ELABORATION
                                            /        \
-                                         U30       SPAN 31–34
-                                          S            │
-                                      EVIDENCE      ELABORATION
-                                                   /          \
-                                             SPAN 31–32     SPAN 33–34
-                                                │                │
-                                               CAUSE           RESULT
-                                              /    \          /      \
-                                            U31    U32      U33      U34
-                                             S      S         S        N
+                                        SPAN 30-31      SPAN 32–34
+                                          │                │
+                                   EVIDENCE(Attr)      ELABORATION
+                                      /     \             /      \
+                                    U30     U31      SPAN 32     SPAN 33–34
+                                     N        S        │                │
+                                                    CAUSE           RESULT
+                                                   /     \
+                                                 U32a   U32b
+                                                 N       S           /      \
+                                                                   U33      U34
+                                                                    S        N
 
 
 U24: WMO says extreme heat events have become common.
 U25: gives a concrete example: temperatures above 50°C.
-U26: provides WMO's quantitative warming data.
-U28a: camels avoid sweating, minimise water loss and use their thick skin coat to deal with heat.
-U28b: “But camels can also experience heat stress when temperatures rise beyond their comfort range.”
-U27 provides the initial claim.
-U30: introduces Professor Chehma and his experimental work.
-U31: gives his finding that prolonged heat directly attacks cells.
-U32: explains the cellular/immune consequences.
+U26: provides WMO's quantitative warming data in Africa.
+U28: “But camels can also experience heat stress when temperatures rise beyond their comfort range.”
+U27: It is primarily Elaboration, with some internal Result/Cause relations inside U27a/U27b.
+U30: introduces expert/source and his conclusion. It is relatively weak as an independent proposition, but it establishes the claim that follows.
+U31: gives his finding ,supporting the preceding discussion
+U32: explains why the immune system suffers. U32a  Their immune system suffers. U32b  Such heat levels damage their white blood cells and other cells...
 U33: explains the metabolic consequences of heat stress.
 U34: gives further consequences such as reduced milk production and reproductive disorders.
 
@@ -100,8 +106,6 @@ reduced milk production /
 reproductive disorders
 
 
-*note : U30 could  be treated as Attribution rather than Evidence, because it introduces Professor Chehma as the source of the following scientific claim. 
-Also, the relation between U31–32 and the following physiological consequences needs to be checked again.
 
 ** AI — Units 294–301
 Unit 294: “We used to think of camels as almost drought-proof animals,” said Dr Amina Yusuf, a veterinary researcher who has studied livestock health in arid areas of East Africa. “What we are now seeing is that even a species this well adapted has physiological limits, and those limits are being reached more often than before.”
