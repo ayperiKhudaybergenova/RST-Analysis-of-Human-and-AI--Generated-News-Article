@@ -8,7 +8,7 @@ This repository contains a Rhetorical Structure Theory (RST) discourse analysis 
 
 ## 🛠 Generation Metadata
 
-* **AI Model & Version:** Anthropic Claude (Latest Version: `Claude 3.5 Sonnet` / `Claude 3 Opus` )
+* **AI Model & Version:** Anthropic Claude ( `claude-opus-5-5` )
 * **Generation Purpose:** To evaluate rhetorical structure shifts, sentence expansion, and discourse tree variations between human-authored and LLM-generated text.
 
 ---
